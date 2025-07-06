@@ -30,8 +30,7 @@ https://github.com/Dhanya123-hub/cosmetic-insights-dashboard/tree/main
 ## 🧾 Project Report (PDF)
 
 📄 [Download Project Report PDF]
-(https://github.com/Dhanya123-hub/cosmetic-insights-dashboard/tree/main)
-
+https://github.com/Dhanya123-hub/cosmetic-insights-dashboard/blob/5a8c62fbecc23fe58603e39732210dd73a07773b/Final_Report%20by%20dhanya.pdf
 ---
 
 ## 📁 Tools Used
